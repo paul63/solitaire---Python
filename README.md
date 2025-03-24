@@ -7,6 +7,8 @@ https://api.arcade.academy/en/development/tutorials/card_game/index.html
 
 This is © Copyright 2024, Paul Vincent Craven.
 
+![game.png](game.png)
+
 I have extended the code to add the following:
 
 - The mat has been resized so that it is hidden when cards are present on it.
